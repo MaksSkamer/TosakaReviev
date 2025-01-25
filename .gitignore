@@ -1,1 +1,4 @@
 venv/
+TosakaReview/__pycache__/
+TosakaReview/migrations/__pycache__/
+TosakaReviews/__pycache__/
